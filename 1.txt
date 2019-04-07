@@ -1,5 +1,8 @@
 Orz Xzl
 Xzl Tql!!!
-fdsajf;kl
-fjdsklaeir
-fdaslasd
+<<<<<<< HEAD
+fadsjfk;das
+=======
+fadsjfk;das
+fdsaj
+>>>>>>> n
